@@ -831,7 +831,7 @@ Registration form open
 ***DevFest*** DevFest is an annual decentralized tech conference hosted by the Google Developer Groups (GDG) community. GDGs host these events around the globe. Whether you're passionate about finding new opportunities, elevating your knowledge on the latest Google developer tools, or exploring how to use Google technologies to generate social and economic impact, DevFest offers an amazing platform for developers to connect locally, learn, and build on Google's tools.
 
   
-### 3- No Code November, AI and Cloud [Link](https://devfest.gdgkolkata.in/)
+### 3- No Code November, AI and Cloud [Link]https://gdg.community.dev/events/details/google-gdg-cloud-kolkata-presents-november-meet-no-code-november-ai-and-cloud/
 
 Registration form open
 
